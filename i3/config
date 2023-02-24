@@ -24,7 +24,6 @@ font pango:Fira Mono Regular 12
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id feh --bg-scale ~/Pictures/alaska.jpg
 exec --no-startup-id picom & 
-exec --no-startup-id setxkbmap set dvorak 
 exec --no-startup-id ~/.screenlayout/monitor.sh
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
